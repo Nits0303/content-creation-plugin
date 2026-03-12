@@ -1,0 +1,33 @@
+{
+    "name": "dynamic-content-creation-plugin",
+    "version": "1.0.0",
+    "description": "AI content creation engine for blogs, webpages, and social media with structured intake and generation architecture.",
+    "author": "Nitya",
+    "commands": [
+      "create",
+      "create-blog",
+      "create-page",
+      "create-social",
+      "refine",
+      "repurpose",
+      "tone-check",
+      "seo-check",
+      "brand-setup"
+    ],
+    "skills": [
+      "intake",
+      "brand-voice",
+      "humanise",
+      "blog",
+      "webpage",
+      "social",
+      "blog-templates",
+      "webpage-templates",
+      "social-templates",
+      "seo",
+      "refine",
+      "repurpose",
+      "tone-check",
+      "sectors"
+    ]
+  }
