@@ -1,16 +1,5 @@
 {
   "name": "dynamic-content-creation-plugin",
-  "owner": {
-    "name": "Nitya"
-  },
-  "metadata": {
-    "description": "AI content creation engine for blogs, webpages, and social media.",
-    "version": "1.0.0"
-  },
-  "plugins": [
-    {
-      "name": "dynamic-content-creation-plugin",
-      "source": "."
-    }
-  ]
+  "description": "AI content creation engine for blogs, webpages, and social media.",
+  "version": "1.0.0"
 }
