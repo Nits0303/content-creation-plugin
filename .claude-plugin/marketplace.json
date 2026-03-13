@@ -1,5 +1,6 @@
 {
   "name": "dynamic-content-creation-plugin",
   "description": "AI content creation engine for blogs, webpages, and social media.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "repository": "https://github.com/Nits0303/content-creation-plugin"
 }
