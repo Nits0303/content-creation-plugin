@@ -25,6 +25,7 @@
     { "name": "blog-templates", "path": "skills/blog-templates/SKILL.md" },
     { "name": "webpage-templates", "path": "skills/webpage-templates/SKILL.md" },
     { "name": "social-templates", "path": "skills/social-templates/SKILL.md" },
+    { "name": "tone-check", "path": "skills/tone-check/SKILL.md" }
     { "name": "sectors/tech", "path": "skills/sectors/tech/SKILL.md" },
     { "name": "sectors/ca_legal-finance", "path": "skills/sectors/ca_legal-finance/SKILL.md" },
     { "name": "sectors/healthcare", "path": "skills/sectors/healthcare/SKILL.md" },
