@@ -9,25 +9,28 @@
       "create-page",
       "create-social",
       "refine",
-      "repurpose",
-      "tone-check",
-      "seo-check",
-      "brand-setup"
+      "repurpose"
     ],
     "skills": [
       "intake",
-      "brand-voice",
-      "humanise",
+      "router",
       "blog",
       "webpage",
       "social",
-      "blog-templates",
-      "webpage-templates",
-      "social-templates",
-      "seo",
+      "humanise",
+      "brand-voice",
       "refine",
       "repurpose",
-      "tone-check",
-      "sectors"
+      "sectors/tech",
+      "sectors/ca_legal-finance",
+      "sectors/healthcare",
+      "sectors/real-estate",
+      "sectors/education",
+      "sectors/ecommerce-retail",
+      "sectors/hospitality-travel",
+      "sectors/marketing-agency",
+      "sectors/hr-recruitment",
+      "sectors/manufacturing-b2b",
+      "sectors/local-services"
     ]
   }
